@@ -1,0 +1,19 @@
+.wrap {
+    height: 200px;
+    width: 400px;
+    background: blanchedalmond;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+}
+
+#img {
+    height: 200px;
+    min-width: 400px;
+    display: inline-block;
+}
+
+.btn {
+    align-content: stretch;
+    font-size: 40px;    
+}
